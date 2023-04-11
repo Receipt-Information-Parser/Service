@@ -24,3 +24,13 @@ Colors
 <p align="center">
   <img src="./imgs/colors_hex.png"/></a>&nbsp
 </p>
+
+---
+
+Architecture
+
+<p align="center">
+  <img src="./imgs/architecture/Architecture.png"/></a>&nbsp
+</p>
+
+---
